@@ -1,0 +1,11 @@
+C:\Users\1025308\source\repos\indexs\indexs\bin\Debug\netcoreapp2.1\indexs.deps.json
+C:\Users\1025308\source\repos\indexs\indexs\bin\Debug\netcoreapp2.1\indexs.runtimeconfig.json
+C:\Users\1025308\source\repos\indexs\indexs\bin\Debug\netcoreapp2.1\indexs.runtimeconfig.dev.json
+C:\Users\1025308\source\repos\indexs\indexs\bin\Debug\netcoreapp2.1\indexs.dll
+C:\Users\1025308\source\repos\indexs\indexs\bin\Debug\netcoreapp2.1\indexs.pdb
+C:\Users\1025308\source\repos\indexs\indexs\obj\Debug\netcoreapp2.1\indexs.csprojAssemblyReference.cache
+C:\Users\1025308\source\repos\indexs\indexs\obj\Debug\netcoreapp2.1\indexs.csproj.CoreCompileInputs.cache
+C:\Users\1025308\source\repos\indexs\indexs\obj\Debug\netcoreapp2.1\indexs.AssemblyInfoInputs.cache
+C:\Users\1025308\source\repos\indexs\indexs\obj\Debug\netcoreapp2.1\indexs.AssemblyInfo.cs
+C:\Users\1025308\source\repos\indexs\indexs\obj\Debug\netcoreapp2.1\indexs.dll
+C:\Users\1025308\source\repos\indexs\indexs\obj\Debug\netcoreapp2.1\indexs.pdb
